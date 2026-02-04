@@ -1,0 +1,4 @@
+- Peso de los coches buscando la escudería (suponemos que los dos coches son iguales)
+- Añadir coches con su nombre, peso, potencia en caballos y mejoras
+- Cual es el coche que más caballos tiene y a qué escudería pertenece (nombre del coche)
+- Número de modificaciones que se han realizado a un coche (por su nombre)
